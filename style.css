@@ -5,7 +5,7 @@ body {
 header {
     display: flex;
     background: linear-gradient(#070211, #25222b00);
-    background-image: url('/Banner\ Image.png');
+    background-image: url('Banner\ Image.png');
     background-repeat: no-repeat;
     background-position: cover;
     width: 1320px;
@@ -60,7 +60,7 @@ header {
 }
 
 .banner-three {
-    background-image: url('/Vectorrr.png');
+    background-image: url('Vectorrr.png');
     display: flex;
     background-repeat: no-repeat;
     background-position: cover;
